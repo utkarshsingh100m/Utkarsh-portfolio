@@ -208,3 +208,40 @@
     height: auto;
   }
 }
+
+/* ===== Admin Upload Button & Panel for Work ===== */
+.admin-upload-btn {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 100;
+  background-color: #111;
+  border: 1px solid #333;
+  color: #fff;
+  font-size: 13px;
+  padding: 6px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  opacity: 0.35;
+  transition: opacity 0.25s, background-color 0.25s;
+}
+
+.admin-upload-btn:hover {
+  opacity: 1;
+  background-color: #1e1e1e;
+  border-color: var(--accentColor, #7f40ff);
+}
+
+.work-section .admin-panel {
+  position: absolute;
+  bottom: 60px;
+  right: 20px;
+  z-index: 101;
+  width: 280px;
+  background-color: #141414;
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.7);
+}
+

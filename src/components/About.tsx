@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I'm Utkarsh Vashishtha, a passionate B.Tech engineering student and Fullstack AI Developer. I love building intelligent, end-to-end web applications — from crafting seamless user interfaces to architecting powerful AI-powered backends. With a strong foundation in modern web technologies and machine learning, I bring ideas to life through clean code, creative design, and cutting-edge AI integrations. Always learning, always building.
         </p>
       </div>
     </div>
