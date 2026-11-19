@@ -8,11 +8,7 @@ const Landing = ({ children }: PropsWithChildren) => {
         <div className="landing-container">
           <div className="landing-intro">
             <h2>Hello! I'm</h2>
-            <h1>
-              UTKARSH
-              <br />
-              <span>VASHISHTHA</span>
-            </h1>
+            <h1>UTKARSH</h1>
           </div>
           <div className="landing-info">
             <h3>A BTech</h3>
