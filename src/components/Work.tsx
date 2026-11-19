@@ -116,7 +116,9 @@ const Work = () => {
                 <div className="work-title">
                   <h3>{project.id}</h3>
                   <div>
-                    <h4>{project.name}</h4>
+                    <h4>
+                      {project.name} <MdArrowOutward />
+                    </h4>
                     <p>{project.category}</p>
                   </div>
                 </div>
