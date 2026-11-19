@@ -18,10 +18,10 @@ const Career = () => {
                 <h4>B.Tech Student</h4>
                 <h5>Engineering College</h5>
               </div>
-              <h3>2022</h3>
+              <h3>2025 - 2029</h3>
             </div>
             <p>
-              Started my B.Tech journey in Computer Science, diving deep into
+              Pursuing my B.Tech degree in Computer Science, diving deep into
               data structures, algorithms, and software engineering
               fundamentals.
             </p>
@@ -32,10 +32,10 @@ const Career = () => {
                 <h4>Freelance Developer</h4>
                 <h5>Self-Employed</h5>
               </div>
-              <h3>2023</h3>
+              <h3>2016 - NOW</h3>
             </div>
             <p>
-              Took on freelance web development projects, building full-stack
+              Taking on freelance web development projects, building full-stack
               applications for clients while sharpening React, Node.js and
               database skills.
             </p>
